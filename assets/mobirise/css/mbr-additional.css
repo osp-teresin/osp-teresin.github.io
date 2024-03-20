@@ -1333,9 +1333,9 @@ a {
   }
 }
 .cid-u6PXTiNG66 {
-  padding-top: 9rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/teresin-1683x858.png");
+  padding-top: 4rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/1710771868548-1-2000x1500.jpeg");
 }
 .cid-u6PXTiNG66 .mbr-fallback-image.disabled {
   display: none;
@@ -1351,10 +1351,12 @@ a {
 }
 .cid-u6PXTiNG66 .mbr-section-title {
   color: #ffffff;
+  text-align: center;
 }
 .cid-u6PXTiNG66 .mbr-text,
 .cid-u6PXTiNG66 .mbr-section-btn {
   color: #ffffff;
+  text-align: right;
 }
 .cid-u6PXYk5yDs {
   padding-top: 5rem;
@@ -1520,6 +1522,12 @@ a {
   font-weight: bold;
   font-size: 2rem;
   width: 1.6rem;
+}
+.cid-u6Q8n3QMLo .list {
+  color: #2b7a69;
+}
+.cid-u6Q8n3QMLo H3 {
+  color: #2e481a;
 }
 .cid-u6Q0yYzLiT {
   padding-top: 75px;
